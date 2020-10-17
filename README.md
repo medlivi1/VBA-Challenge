@@ -14,4 +14,4 @@ Develop script to analyze real stock market
 
 ## Author
 
-* **VIctoria Medlin* -[Github](https://github.com/medlivi1/)
+**VIctoria Medlin* -[Github](https://github.com/medlivi1/)
